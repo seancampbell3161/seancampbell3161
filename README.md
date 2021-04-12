@@ -2,7 +2,7 @@
 
 ▪ 👀 I’m interested in Mobile and Web Development
 
-▪ 🌱 I’m currently learning Node.js
+▪ 🌱 I’m currently learning JavaScript
 
 ▪ 💞️ I’m looking to collaborate on Android and Web applications
 
