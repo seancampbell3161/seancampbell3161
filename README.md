@@ -18,7 +18,7 @@
 - 🎹 Fun fact: I love making music  
   
 
-- 📩 How to reach me: sean.campbell3161@gmail.com  
+- 📩 How to reach me: sean@seanthedeveloper.com
   
 
 <br/>  
