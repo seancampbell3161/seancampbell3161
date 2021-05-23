@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on designing my own website
   
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning JavaScript and Spring Boot
   
 
 - ❓ Ask me about anything related to Front-End Web Development or Java  
