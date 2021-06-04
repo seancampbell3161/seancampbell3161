@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on redesigning my portfolio website
   
 
-- 🌱 I’m currently learning JavaScript and Spring Boot
+- 🌱 I’m currently learning React and Spring Boot
   
 
-- ❓ Ask me about anything related to Front-End Web Development or Java  
+- ❓ Ask me about anything related to Web Development or Java  
   
 
 - 🎹 Fun fact: I love making music  
