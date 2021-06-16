@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sean, a full-stack software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a Chess engine
+- 🔭 I’m currently working on a Chess engine and a text-based game
   
 
 - 🌱 I’m currently learning React and Spring Boot
