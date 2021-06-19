@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a Chess engine and a text-based game
   
 
-- 🌱 I’m currently learning React and Spring Boot
+- 🌱 I’m currently learning ES6 and Spring Boot
   
 
 - ❓ Ask me about anything related to Web Development or Java  
