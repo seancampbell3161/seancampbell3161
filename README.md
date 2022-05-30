@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on a full stack camping web app.
   
 
-- 🌱 I’m currently learning ES6 and Spring Boot
+- 🌱 I’m currently learning Tailwind CSS and Protobufs
   
 
-- ❓ Ask me about anything related to Web Development or Java  
+- ❓ Ask me about anything related to Web Development
   
 
 - 🎹 Fun fact: I love making music  
