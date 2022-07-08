@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything Web Dev!<br>
 
--⚡Fun fact, I love making music.
+-⚡Fun fact, I love making music.<br>
 
 
 
