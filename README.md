@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning C,  and advanced algorithms & data structures.<br/>
 
-- 💬 Ask me about anything Web Dev!<br>⚡ Fun fact, I love making music.
+- 💬 Ask me about anything Web Dev!<br>⚡ 
+
+- Fun fact, I love making music.
 
 
 ## 🌐 Socials:
