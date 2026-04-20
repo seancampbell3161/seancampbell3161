@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on anything open source. Send me info!<br/>
 
-- 🌱 I’m currently learning Go, and advanced algorithms & data structures.<br/>
+- 🌱 I’m currently diving deep into System Design and advanced algorithms & data structures.<br/>
 
 - 💬 Ask me about anything Web Dev!<br>
  
