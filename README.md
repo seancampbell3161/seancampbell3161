@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on developing an app that will provide resources for those looking to get out in nature.<br/>
+- 🔭 I’m currently building https://roaming.camp - an app that will provide resources for those looking to get out in nature.<br/>
 
 - 👯 I’m looking to collaborate on anything open source. Send me info!<br/>
 
